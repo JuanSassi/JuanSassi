@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi i'm Juan 👋
+
+![Simpsons portada](https://github.com/user-attachments/assets/04771348-2d6d-4266-aa9a-ea9abb0fda1a)
 
 <!--
 **JuanSassi/JuanSassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
