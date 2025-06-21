@@ -1,4 +1,4 @@
-## Hi i'm Juan 👋
+## Hi! I'm Juan 👋
 
 <!--
 **JuanSassi/JuanSassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
