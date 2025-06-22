@@ -1,4 +1,18 @@
-## Hi! I'm Juan 👋
+# Hi! I'm Juan 👋
+
+I am an advanced student looking to grow both professionally and personally. I stand out for my proactivity, effective communication and ability to work as a team.
+
+---
+
+# 🛠️ Technologies
+💻 Programming languages: Java, Python, C, C++
+
+⚙️ Build & DevOps tools: CMake, Conan, GitHub Actions, Docker
+
+🛢️ Database: MySQL
+
+🌐 Networking: Cisco (CCNA – Introduction to Networks, 2024)
+
 
 <!--
 **JuanSassi/JuanSassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
