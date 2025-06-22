@@ -1,6 +1,6 @@
 # Hi! I'm Juan 👋
 
-I am an advanced student looking to grow both professionally and personally. I stand out for my proactivity, effective communication and ability to work as a team.
+I am an advanced student in Computer Engineering seeking to grow both professionally and personally. I stand out for my proactivity, effective communication, and teamwork skills.
 
 ---
 
