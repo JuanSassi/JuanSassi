@@ -7,7 +7,7 @@ I am an advanced student in Computer Engineering seeking to grow both profession
 # 🛠️ Technologies
 💻 Programming languages: Java, Python, C, C++
 
-⚙️ Build & DevOps tools: CMake, Conan, GitHub Actions, Docker
+⚙️ Build & DevOps tools: CMake, Conan, GitHub Actions, Docker, Gradle
 
 🛢️ Database: MySQL
 
